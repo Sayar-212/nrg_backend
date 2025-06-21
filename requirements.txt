@@ -1,0 +1,10 @@
+langchain
+langchain-community
+fastembed
+chromadb
+pandas
+requests
+huggingface-hub
+sentence-transformers
+pypdf
+ollama
